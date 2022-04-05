@@ -14,4 +14,4 @@ https://github.com/Caraje/CalendarApp-Front
 
 ## Aplicación activa en Heroku
 
-https://mern-calendar-caraje.herokuapp.com/
+https://calendarapp-caraje.herokuapp.com/login
